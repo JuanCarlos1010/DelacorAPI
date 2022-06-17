@@ -57,11 +57,13 @@
 			<Item Name="Test My Singleton Module API.vi" Type="VI" URL="../Libraries/My Singleton Module/Test My Singleton Module API.vi"/>
 			<Item Name="Test My Cloneable Module API.vi" Type="VI" URL="../Libraries/My Cloneable Module/Test My Cloneable Module API.vi"/>
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
+			<Item Name="Test Interface Change API.vi" Type="VI" URL="../Libraries/Interface Change/Test Interface Change API.vi"/>
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="My Singleton Module.lvlib" Type="Library" URL="../Libraries/My Singleton Module/My Singleton Module.lvlib"/>
 			<Item Name="My Cloneable Module.lvlib" Type="Library" URL="../Libraries/My Cloneable Module/My Cloneable Module.lvlib"/>
 			<Item Name="User Interface.lvlib" Type="Library" URL="../Libraries/User Interface/User Interface.lvlib"/>
+			<Item Name="Interface Change.lvlib" Type="Library" URL="../Libraries/Interface Change/Interface Change.lvlib"/>
 		</Item>
 		<Item Name="Application.lvlib" Type="Library" URL="../Libraries/Application/Application.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
